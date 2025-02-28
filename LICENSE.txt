@@ -1,0 +1,17 @@
+You may download this software,
+change it
+and share it,
+but you are not allowed to make money of it
+or claim it as your own.
+If and when sharing this, ALWAYS credit me as the original creator
+and put a CLEAR AND NOTICABLE link somewhere always accessable and vissible.
+If you find an isue or just want to report it,
+USE THE GITHUB ISSUES TAB AND DO NOT, EVER, EMAIL ME BECOUSE OF A FAULT IN MY SOFTWARE OR GAMES,
+INCLUDING THIS ONE.
+You may not copy this exaect license and use it as your own.
+If you did not read this before breaking any of the rules,
+that still counts towards breaking them.
+By downloading, sharing, copying or changing the code or license,
+even if you have not read this,
+you are still binded to these rules
+and i am allowed to take action against breaking one or more of these rules.
